@@ -1,0 +1,22 @@
+{
+  "name": "saucelabs-rdc-test-info",
+  "version": "1.0.0",
+  "description": "This project interacts with the Sauce Labs real device cloud API to gather test results, post execution.",
+  "main": "testResults.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redmed86/saucelabs-rdc-test-info.git"
+  },
+  "keywords": [
+    "saucelabs"
+  ],
+  "author": "Derek Ross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redmed86/saucelabs-rdc-test-info/issues"
+  },
+  "homepage": "https://github.com/redmed86/saucelabs-rdc-test-info#readme"
+}
